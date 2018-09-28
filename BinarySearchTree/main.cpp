@@ -14,7 +14,7 @@ int main(int argc, const char * argv[]) {
     
     std::cout << "This program is to find the k-th smallest element in the binary search tree. \ndefine a value for k: ";
     std::cin >> k;
-    createLinkList(int *A);
+    //createLinkList(int *A);
     return 0;
 }
 
